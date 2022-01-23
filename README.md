@@ -1,6 +1,46 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={y6-maenaka}
-)](https://github.com/anuraghazra/github-readme-stats)
+<h2>About Me</h2>
+<p></p>
+
+
+<h2>SKILS - (Language)</h2>
+<p>半年(強)間程，Webアプリ開発に熱中しており，それに伴いDjango,HTML,CSS,JavaScript,SQLの技術を習得しました．<br>
+フロントエンドよりバックエンドのコードを書く方が好きです．<br>
+Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用しているため，インフラ周りも多少扱えます．<br>
+つい最近から競技プログラミングにハマっている為，C++を使う機会が多くなりました．<br>
+Webアプリ内でWebSocketを使ったチャットシステムを構築した際にhttpプロトコル以外の通信方法が気になり，特にP2Pに興味を持ちました．<br>
+現在はC++でP2Pの仕組みを使ったサーバーレスな通信を行うシステム(ソフト)を作る事を目標にしています．</p>
+
+<ul>
+  <li><h3>Python [ ☆☆☆☆ ]</h3></li>
+  <ul>
+    <li>Django [ ☆☆☆☆ ]</li>
+    <li>Flask [ ☆☆ ]</li>
+    <li>Kivy [ ☆☆ ]</li>
+  </ul><br>
+  
+  <li><h3>C / C++ [ ☆☆☆ ]</h3></li>
+  
+  <li><h3>Java [ ☆ ]</h3></li>
+  
+  <li><h3>Swift [ ☆☆ ]</h3></li>
+  
+  <li><h3>HTML [ ☆☆☆☆ ]</h3></li>
+  <li><h3>CSS [ ☆☆☆☆ ]</h3></li>
+  <li><h3>JavaScript [ ☆☆ ]</h3></li>
+  <ul>
+    <li>jquery [ ☆☆☆ ]</li>
+  </ul><br>
+  
+  <li><h3>SQL(MySQL) [ ☆☆☆☆ ]</h3></li><br>
+  
+  <li><h3>Infra</h3></li>
+  <ul>
+    <li>Nginx</li>
+    <li>Gunicorn</li>
+    <li>Daphne</li>
+  </ul>
+</ul>
+
 
 <!--
 **y6-maenaka/y6-maenaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
