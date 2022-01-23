@@ -1,6 +1,4 @@
 <h2>About Me</h2>
-<p></p>
-![sample_3](https://user-images.githubusercontent.com/82138446/150697729-93603889-fa6e-42fe-a74a-c11930556ca1.jpg)
 
 
 <h2>SKILS - (Language/Infra)　　MAX:[ ☆☆☆☆☆ ]</h2>
