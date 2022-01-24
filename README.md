@@ -1,11 +1,14 @@
 <h2>About Me</h2>
-<img src="image/">
-
+<div style="display:flex;align-items:center;justify-content:center;">
+<img src="image/icon.jpg" style="border: 1px #D1D1D1 solid; width: 100px; border-radius:50%; flex:1;">
+  <p>2002年生まれ大学１年生<br>
+  </p>
+</div>
 
 <h2>SKILS - (Language/Infra)</h2>
 <p>半年(強)間程，Webアプリ開発に熱中しており，それに伴いDjango,HTML,CSS,JavaScript,SQLの技術を習得しました．<br>
 バックエンド　＞　フロントエンド．<br>
-Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用しているため，インフラ周りも少し扱えます．<br>
+Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用しているため，インフラ周りも少し扱えるようになりました．<br>
 つい最近競技プログラミングを始めた為，C++を使う機会が多くなりました．<br>
 現在はC++でP2Pの仕組みを使ったサーバーレスな通信を行うシステム(ソフト)を作る事を目標にしています．</p>
 <p>max:[☆☆☆☆☆]</p>
