@@ -6,7 +6,7 @@
 </div>
 
 <h2>SKILS - (Language/Infra)</h2>
-<p>半年(強)間程，Webアプリ開発に熱中しており，それに伴いDjango,HTML,CSS,JavaScript,SQLの技術を習得しました．<br>
+<p>最近は特にWebアプリ開発に熱中しており，それに伴いDjango,HTML,CSS,JavaScript,SQLの技術を習得しました．<br>
 バックエンド　＞　フロントエンド．<br>
 Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用しているため，インフラ周りも少し扱えるようになりました．<br>
 つい最近競技プログラミングを始めた為，C++を使う機会が多くなりました．<br>
