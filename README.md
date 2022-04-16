@@ -1,21 +1,18 @@
 <h2>About Me</h2>
 <div style="display:flex;align-items:center;justify-content:center;">
 <img src="image/icon.jpg" style="border: 1px #D1D1D1 solid; width: 100px; border-radius:50%; flex:1;">
-  <p>2002年生まれ大学１年生<br>
+  <p>2002年生まれ大学2年生<br>
   </p>
 </div>
 
 <h2>SKILS - (Language/Infra)</h2>
-<p>最近は特にWebアプリ開発に熱中しており，それに伴いDjango,HTML,CSS,JavaScript,SQLの技術を習得しました．<br>
-バックエンド　＞　フロントエンド．<br>
-Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用しているため，インフラ周りも少し扱えるようになりました．<br>
-つい最近競技プログラミングを始めた為，C++を使う機会が多くなりました．<br>
-現在はC++でP2Pの仕組みを使ったサーバーレスな通信を行うシステム(ソフト)を作る事を目標にしています．</p>
+<p>最近は特にWebアプリ開発に熱中<br>その他にはP2P技術に興味あり</p>
 <p>max:[☆☆☆☆☆]</p>
 <ul>
   <li><h3>Python [ ☆☆☆☆ ]</h3></li>
   <ul>
     <li>Django [ ☆☆☆☆ ]</li>
+    <li>DjangoREST[ ☆ ]</li>
     <li>Flask [ ☆☆ ]</li>
     <li>Kivy [ ☆☆ ]</li>
   </ul><br>
@@ -37,6 +34,12 @@ Webアプリのデプロイ・運用の為，AWS/Linuxサーバを使用して�
   <ul>
     <li>MySQL</li>
     <li>Redis</li>
+  </ul>
+  
+  <li><h3>AWS</h3></li>
+  <ul>
+    <li>EC2</li>
+    <li>RDS,DynamoDB</li>
   </ul>
   
   <li><h3>Infra</h3></li>
@@ -102,6 +105,9 @@ IOS向けアプリも製作しています．<br>
   <li>Swift</li>
   <li>SQL</li>
 </ul>
+
+<h3>SIDERS</h3>
+<p>現在製作中...</p>
 
 <h2>Future</h2>
 <p>①競技プログラミング技術を上げたいです．</p>
