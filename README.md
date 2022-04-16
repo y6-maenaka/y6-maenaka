@@ -6,7 +6,7 @@
 </div>
 
 <h2>SKILS - (Language/Infra)</h2>
-<p>最近は特にWebアプリ開発に熱中<br>その他にはP2P技術に興味あり</p>
+<p>最近は特にWebアプリ開発に熱中しています<br>その他にはP2P技術に興味があります</p>
 <p>max:[☆☆☆☆☆]</p>
 <ul>
   <li><h3>Python [ ☆☆☆☆ ]</h3></li>
@@ -114,6 +114,12 @@ IOS向けアプリも製作しています．<br>
 
 <h3>④Webアプリ(SIDERS)</h3>
 <p>現在製作中...</p>
+<ul>
+  <li>Django (main_server)</li>
+  <li>Django REST framework (index_server.web_api)</li>
+  <li>HTML,CSS,JavaScript</li>
+  <li>MySQL,DynamoDB</li>
+</ul>
 
 <h2>Future</h2>
 <p>①競技プログラミング技術を上げたいです．</p>
