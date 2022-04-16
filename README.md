@@ -104,9 +104,9 @@ IOS向けアプリも製作しています．<br>
   <li>JavaScript(jquery)</li>
   <li>Swift</li>
   <li>SQL</li>
-</ul>
+</ul><br>
 
-<h3>SIDERS</h3>
+<h3>④Webアプリ(SIDERS)</h3>
 <p>現在製作中...</p>
 
 <h2>Future</h2>
