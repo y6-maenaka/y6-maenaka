@@ -51,6 +51,12 @@
       <li>Daphne</li>
     </ul>
   </ul>
+  
+  <li><h3>ETC..</h3></li>
+  <ul>
+    <li>Git(,hub)</li>
+    <li>Docker(,-compose)</li>
+  </ul>
 </ul>
 
 <h2>Production</h2>
