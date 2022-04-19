@@ -9,28 +9,28 @@
 <p>最近は特にWebアプリ開発に熱中しています<br>その他ではP2P技術に興味があります</p>
 
 <ul>
-  <li><h3>Python [ ☆☆☆☆ ]</h3></li>
+  <li><h3>Python [ //// ]</h3></li>
   <ul>
-    <li>Django [ ☆☆☆☆ ]</li>
-    <li>DjangoREST[ ☆ ]</li>
-    <li>Flask [ ☆☆ ]</li>
-    <li>Kivy [ ☆☆ ]</li>
+    <li>Django [ //// ]</li>
+    <li>DjangoREST[ /// ]</li>
+    <li>Flask [ // ]</li>
+    <li>Kivy [ // ]</li>
   </ul><br>
   
-  <li><h3>C / C++ [ ☆☆☆ ]</h3></li>
+  <li><h3>C / C++ [ // ]</h3></li>
   
-  <li><h3>Java [ ☆ ]</h3></li>
+  <li><h3>Java [ / ]</h3></li>
   
-  <li><h3>Swift [ ☆☆ ]</h3></li>
+  <li><h3>Swift [ // ]</h3></li>
   
-  <li><h3>HTML [ ☆☆☆☆ ]</h3></li>
-  <li><h3>CSS [ ☆☆☆☆ ]</h3></li>
-  <li><h3>JavaScript [ ☆☆ ]</h3></li>
+  <li><h3>HTML [ //// ]</h3></li>
+  <li><h3>CSS [ //// ]</h3></li>
+  <li><h3>JavaScript [ // ]</h3></li>
   <ul>
-    <li>jquery [ ☆☆☆ ]</li>
+    <li>jquery [ // ]</li>
   </ul><br>
   
-  <li><h3>SQL [ ☆☆☆☆ ]</h3></li>
+  <li><h3>SQL [ //// ]</h3></li>
   <ul>
     <li>MySQL</li>
     <li>Redis</li>
@@ -96,8 +96,8 @@ AlexaやSiriの簡易的な装置です．<br>
   <img src="image/mi-board_home.png" style="width:450px;">
 </div>
 <p>大学生が講義について質問，ファイルをオンライン管理，ファイルシェア，交流 etc... 出来るWebアプリです．<br>
-詳細は<a href="https://mi-board.com">Mi-Boardトップページ</a>をご確認ください．<br>
-製作当初はFlaskを使ってましたが，想像していた以上に規模が大きくなりそうだったのでDjangoに移行しました．<br>
+詳細は<a href="https://mi-board.com">Mi-Boardトップページ</a>を閲覧ください．<br>
+製作当初はFlaskを使ってましたが，想像以上に規模が大きくなりそうだったので機能毎に開発がしやすいDjangoに移行しました．<br>
 IOS向けアプリも製作しています．<br>
 現在はβ版として発表しており，本格運用に向けてデータ収集，バグ修正をしています．<br>
 ※ソースコードは公開しておりません</p><br>
@@ -123,7 +123,6 @@ IOS向けアプリも製作しています．<br>
 
 <h2>Future</h2>
 <p>①競技プログラミング技術を上げたいです．</p>
-<p>②セキュリティ知識を増やしたいです．</p>
 <p>③チーム開発をしてみたいです．</p>
 
 
