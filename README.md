@@ -17,7 +17,7 @@
     <li>Kivy [ // ]</li>
   </ul><br>
   
-  <li><h3>C / C++ [ // ]</h3></li>
+  <li><h3>C / C++ [ /// ]</h3></li>
   
   <li><h3>Java [ / ]</h3></li>
   
