@@ -1,8 +1,6 @@
 <h2>About Me</h2>
 <div style="display:flex;align-items:center;justify-content:center;">
 <img src="image/icon.jpg" style="border: 1px #D1D1D1 solid; width: 100px; border-radius:50%; flex:1;">
-  <p>2002年生まれ大学2年生<br>
-  </p>
 </div>
 
 <h2>SKILS - (Language/Infra)</h2>
@@ -119,7 +117,10 @@ IOS向けアプリも製作しています．<br>
   <li>Django REST framework (index_server.web_api)</li>
   <li>HTML,CSS,JavaScript</li>
   <li>MySQL,DynamoDB</li>
-</ul>
+</ul><br>
+
+<h3>m3u8Downloader</h3>
+<p>WebClassの動画をダウンロードする事ができます</p><br>
 
 <h2>Future</h2>
 <p>①競技プログラミング技術を上げたいです．</p>
